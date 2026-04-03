@@ -37,7 +37,7 @@ Unlike fully autonomous systems, GravityBot operates as a powerful assistant, ex
 | :--- | :--- |
 | **Core Languages** | Node.js / Python / C++ |
 | **AI Intelligence** | Google Gemini API & Anthropic Claude |
-| **IDE Support** | Google Antigravity, Amazon Kiro, ByteDance Trae |
+| **IDE Support** | Google Antigravity, Amazon Kiro, Codex |
 | **Platform** | GitHub Actions & Webhooks |
 | **Organization** | [Zane Authors](https://www.google.com/search?q=https://github.com/Zane-Authors) |
 
